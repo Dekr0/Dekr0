@@ -1,5 +1,3 @@
-### Hi there 👋
-
 - Fourth Year Computer Engineering Unergraduate in University of Alberta 
 - 🔭 I’m currently working on
   - Community Science Traffic Counter
