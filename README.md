@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Dekr0/Dekr0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Fourth Year Computer Engineering Unergraduate in University of Alberta 
 
 - 🔭 I’m currently working on
@@ -16,4 +13,4 @@ Fourth Year Computer Engineering Unergraduate in University of Alberta
     - Typescript
   - Architecture and System Design Related Topic
 - 
--->
+
