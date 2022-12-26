@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Fourth Year Computer Engineering Unergraduate in University of Alberta 
+- Fourth Year Computer Engineering Unergraduate in University of Alberta 
 
-🔭 I’m currently working on
+- 🔭 I’m currently working on
   - Community Science Traffic Counter
-🌱 I’m currently learning
+- 🌱 I’m currently learning
   - Framwork
     - Next.js
     - React
