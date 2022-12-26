@@ -1,6 +1,6 @@
 - Fourth Year Computer Engineering Unergraduate in University of Alberta 
 - 🔭 I’m currently working on
-  - Community Science Traffic Counter
+  - [Community Science Traffic Counter](https://github.com/Dekr0/Dekr0/blob/main/Community%20Science%20Traffic%20Counter.pdf)
 - 🌱 I’m currently learning
   - Frameworks
     - Next.js
