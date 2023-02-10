@@ -5,7 +5,7 @@
   - Frameworks
     - Next.js
     - React
-    - A little bif of Django
+    - A little bit of Django
   - Languages
     - Typescript
   - Architecture and System Design Related Topics
