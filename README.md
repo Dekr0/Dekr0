@@ -5,10 +5,12 @@
   - Frameworks
     - Next.js
     - React
-    - A little bit of Django
+    - Solid.js
   - Languages
     - Typescript
+    - Rust
   - Architecture and System Design Related Topics
+  - SRE and Fault Tolerant Related Topics 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dekr0&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
  
