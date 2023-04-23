@@ -9,8 +9,13 @@
   - Languages
     - Typescript
     - Rust
-  - Architecture and System Design Related Topics
-  - SRE and Fault Tolerant Related Topics 
+  - Parallel and Distributed Programming Topics
+    - Reading "Introduction to Parallel Computing" by Ananth Grama
+    - Reading "An Introduction to Parallel Programming" by Peter S. Pacheco
+  - System Design
+  - SRE and Fault Tolerance Design Topics
+    - Reading "Fault-Tolerant Design (2013, Springer) by Elena Dubrova
+    - Reading "Site Reliability Engineering How Goolge Runs Production Systems"
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dekr0&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
  
