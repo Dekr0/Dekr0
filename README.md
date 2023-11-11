@@ -1,5 +1,5 @@
 - Computer Engineering Graduated in University of Alberta 
-- I’m currently learning
+- I’m currently learning / doing
   - Frameworks
     - React
     - Solid.js
