@@ -1,11 +1,13 @@
 - Computer Engineering Graduated in University of Alberta 
 - I’m currently learning / doing
-  - Frameworks
-    - React
-    - Solid.js
   - Languages
     - Typescript
-    - Rust
+    - Golang
+  - TCP/UDP & IP
+  - HTTP
+  - TLS
+  - Backend Communication Patterns
+  - Backend Execution Patterns
   - System Design
   - Leetcoding
 
