@@ -1,5 +1,8 @@
-- Computer Engineering Graduated in University of Alberta 
-- I’m currently learning / doing
+- Computer Engineering Graduated in University of Alberta
+- I'm working on
+  - [RPC.nvim](https://github.com/Dekr0/RPC.nvim)
+  - [Personal Site](https://github.com/Dekr0/dekr0.dev)
+- I’m currently learning
   - Languages
     - Typescript
     - Golang
