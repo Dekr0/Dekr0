@@ -4,8 +4,9 @@
   - [Personal Site](https://github.com/Dekr0/dekr0.dev)
 - I’m currently learning
   - Languages
+    - Zig
+    - ASM
     - Golang
-  - TLS
   - Backend Communication Patterns
   - Backend Execution Patterns
   - System Design
