@@ -12,6 +12,6 @@
   - System Design
   - Leetcoding
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dekr0&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Dekr0's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
  
 
