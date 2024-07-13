@@ -12,6 +12,6 @@
   - System Design
   - Leetcoding
 
-[![Dekr0's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Dekr0's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dekr0)](https://github.com/anuraghazra/github-readme-stats)
  
 
