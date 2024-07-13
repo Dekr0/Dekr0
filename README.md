@@ -12,6 +12,6 @@
   - System Design
   - Leetcoding
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dekr0&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=tokyonight&username=Dekr0&langs_count=8)
  
 
