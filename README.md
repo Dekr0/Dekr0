@@ -1,14 +1,13 @@
 - Computer Engineering Graduated in University of Alberta
 - I'm working on
-  - [RPC.nvim](https://github.com/Dekr0/RPC.nvim)
-  - [Personal Site](https://github.com/Dekr0/dekr0.dev)
+  - [8086 Emulator](https://github.com/Dekr0/8086-sim)
+  - [C Redis Clone](https://github.com/Dekr0/redis-clone)
 - I’m currently learning
   - Languages
     - Zig
     - ASM
     - Golang
-  - Backend Communication Patterns
-  - Backend Execution Patterns
+  - [Performance Awareness Programming](https://www.computerenhance.com/p/table-of-contents)
   - System Design
   - Leetcoding
 
