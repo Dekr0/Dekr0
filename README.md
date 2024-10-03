@@ -1,6 +1,7 @@
 - Computer Engineering Graduated in University of Alberta
 - I'm working on
   - [Helldiver 2 Audio Modding Tool](https://github.com/RaidingForPants/hd2-audio-modder)
+  - Custom external dashboard integration for different racing games with STM32 (hand rolling my firmware)
 - I’m currently learning
   - Languages
     - Zig
