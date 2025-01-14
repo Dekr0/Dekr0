@@ -6,6 +6,13 @@
 
 - Trim unnecessary instructions
 - Cached in as much computation from backend for the UI while slowly reworking the backend.
+- The memory usage doesn't seems right. Without any active loaded archive, it sit around 70 ~ 90 MB.
+  - The original implementation with Tkinter is only around 32 MB.
+- The memory doesn't immedately released when a bank file explorer is closed. Especially, when loading
+archive such as `weapon_superearth` and closing it after uses, the collection does not happen unless
+another few instances of large archives are opened.
+  - This issue exists in the implementation with Tkinter as well.
+- High GPU usage (Idle is at 12%).
 
 ### UI Styling
 
