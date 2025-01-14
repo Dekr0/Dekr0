@@ -39,6 +39,11 @@ another few instances of large archives are opened.
    b. Patch Import Automation
    c. Patch manifest generation
 
+#### Features
+
+- Table
+  - Fold all items
+
 ## HD2 Audio Modding Tool (Legacy)
 
 ### Features
