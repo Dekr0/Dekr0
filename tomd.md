@@ -13,6 +13,8 @@ archive such as `weapon_superearth` and closing it after uses, the collection do
 another few instances of large archives are opened.
   - This issue exists in the implementation with Tkinter as well.
 - High GPU usage (Idle is at 12%).
+- Disable rendering / lower max frame rate when it's idle.
+- Use clipper to save on computation for large amount table items.
 
 ### UI Styling
 
