@@ -74,3 +74,8 @@ another few instances of large archives are opened.
 ### PR
 
 1. Push Automation and QOL branch.
+
+## HD2 SFX Mods
+
+- MG43 and M105 does not share sounds after loaded two patches that modified the shared part. They doesn't seems to be effecting each other.
+- 
