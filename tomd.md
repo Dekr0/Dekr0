@@ -17,7 +17,8 @@
   on the screen,
   - queued, scheduled, and ran in the background, and then check for its completion between each
    render loop, and then collect the result. Make sure to minimize the amount of sharing (reduce
-   resource competition) and coping. 
+   resource competition) and coping.
+- Minmize the amount of source of truth.
 
 ### Performance
 
@@ -37,17 +38,17 @@ another few instances of large archives are opened.
 
 ### Porting Features
 
-1. Information copying
+- Information copying
   - Copy Audio ID (Done)
   - Copy ID (All types of hierarchy entries)
     - Fold
     - Unfold   
-2. Configuration storage (Done)
-3. Database integration (Done)
+- Configuration storage (Done)
+- Database integration (Done)
   - Display label (Done)
   - Rename label (Working on data sync.)
-5. Audio Export
-6. Manifest generation
+- Audio Export
+- Manifest generation
   - Target Import Automation
     - CSV
     - JSON
