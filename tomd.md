@@ -2,10 +2,25 @@
 
 ## HD2 Audio Modding Tool (New UI)
 
-### Performance 
+## Something To Remind Myself
 
-- Trim unnecessary instructions
-- Cached in as much computation from backend for the UI while slowly reworking the backend.
+- Maintain [nonpessmization and simplicity](https://youtu.be/pgoetgxecw8?t=372)
+  - Sweeps for unecessary opertaions and complexities, and remove them.
+- [Slow code isolation](https://youtu.be/lStYLF6Us_Q?si=fy9ePITN6oMy6dvF)
+- The following operations should be queued, scheduled, and ran in the background:
+  - most IO operations,
+  - operations that are irrelevant to a frame of rendering,
+  - ???
+- If it cannot be done in this way due to other reasons (e.g., there is data that is required
+ by a frame of render), they should be either
+  - ran before the new frame and after the previous frame is rendered and displayed
+  on the screen,
+  - queued, scheduled, and ran in the background, and then check for its completion between each
+   render loop, and then collect the result. Make sure to minimize the amount of sharing (reduce
+   resource competition) and coping. 
+
+### Performance
+
 - The memory usage doesn't seems right. Without any active loaded archive, it sit around 70 ~ 90 MB.
   - The original implementation with Tkinter is only around 32 MB.
 - The memory doesn't immedately released when a bank file explorer is closed. Especially, when loading
@@ -13,7 +28,7 @@ archive such as `weapon_superearth` and closing it after uses, the collection do
 another few instances of large archives are opened.
   - This issue exists in the implementation with Tkinter as well.
 - High GPU usage (Idle is at 12%).
-- Disable rendering / lower max frame rate when it's idle.
+- Disable rendering / lower max frame rate when it's idle. (Fixed)
 - Use clipper to save on computation for large amount table items.
 
 ### UI Styling
@@ -23,21 +38,21 @@ another few instances of large archives are opened.
 ### Porting Features
 
 1. Information copying
-  a. Copy Audio ID
-  b. Copy ID (All types of hierarchy entries)
-     - Fold
-     - Unfold   
-2. Configuration storage
-3. Database integration
-   a. Display label
-   b. Rename label
+  - Copy Audio ID (Done)
+  - Copy ID (All types of hierarchy entries)
+    - Fold
+    - Unfold   
+2. Configuration storage (Done)
+3. Database integration (Done)
+  - Display label (Done)
+  - Rename label (Working on data sync.)
 5. Audio Export
 6. Manifest generation
-   a. Target Import Automation
-     - CSV
-     - JSON
-   b. Patch Import Automation
-   c. Patch manifest generation
+  - Target Import Automation
+    - CSV
+    - JSON
+  - Patch Import Automation
+  - Patch manifest generation
 
 #### Features
 
@@ -78,4 +93,3 @@ another few instances of large archives are opened.
 ## HD2 SFX Mods
 
 - MG43 and M105 does not share sounds after loaded two patches that modified the shared part. They doesn't seems to be effecting each other.
-- 
