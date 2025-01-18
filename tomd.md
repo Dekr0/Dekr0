@@ -59,6 +59,8 @@ another few instances of large archives are opened.
 
 - Table
   - Fold all items
+- Focus on a bank viewer when users try to load the same file.
+- Allow to duplicate a bank viewer (only visually)
 
 ## HD2 Audio Modding Tool (Legacy)
 
