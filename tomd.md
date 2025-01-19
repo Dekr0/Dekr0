@@ -16,8 +16,9 @@
   - ran before the new frame and after the previous frame is rendered and displayed
   on the screen,
   - queued, scheduled, and ran in the background, and then check for its completion between each
-   render loop, and then collect the result. Make sure to minimize the amount of sharing (reduce
-   resource competition) and coping.
+   render loop, and then collect the result.
+  - Make sure to minimize the amount of sharing (reduce resource competition) and coping if isolation
+   is done by computing / create a set of state, and throw away the old one.
 - Minmize the amount of source of truth.
 
 ### Performance
