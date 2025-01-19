@@ -71,6 +71,7 @@ another few instances of large archives are opened.
 - Async. race between record change caused by users' input and scheduled record writing
   - Record writing is scheduled but it takes a long time. Meanwhile, users cause record
   change in the UI.
+- Async. task should have priorities and urgencies.
 
 ## HD2 Audio Modding Tool (Legacy)
 
