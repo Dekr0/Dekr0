@@ -56,6 +56,8 @@ another few instances of large archives are opened.
     - Based off label, and tags
   - Patch Import Automation
   - Patch manifest generation
+- String / text hierarchy object displaying
+- String / text modification
 
 #### Features
 
@@ -63,6 +65,12 @@ another few instances of large archives are opened.
   - Fold all items
 - Focus on a bank viewer when users try to load the same file.
 - Allow to duplicate a bank viewer (only visually)
+
+#### Bugs
+
+- Async. race between record change caused by users' input and scheduled record writing
+  - Record writing is scheduled but it takes a long time. Meanwhile, users cause record
+  change in the UI.
 
 ## HD2 Audio Modding Tool (Legacy)
 
