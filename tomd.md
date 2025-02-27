@@ -2,7 +2,7 @@
 
 ## HD2 Audio Modding Tool (New UI)
 
-## Something To Remind Myself
+### Something To Remind Myself
 
 - Maintain [nonpessmization and simplicity](https://youtu.be/pgoetgxecw8?t=372)
   - Sweeps for unecessary opertaions and complexities, and remove them.
@@ -33,65 +33,12 @@ another few instances of large archives are opened.
 - Disable rendering / lower max frame rate when it's idle. (Fixed)
 - Use clipper to save on computation for large amount table items.
 
-### UI Styling
-
-- Context menu (Done)
-
 ### Porting Features
 
-- Information copying
-  - Copy Audio ID (Done)
-  - Copy ID (All types of hierarchy entries)
-    - Fold
-    - Unfold   
-- Configuration storage (Done)
-- Database integration (Done)
-  - Display label (Done)
-  - Rename label (Working on data sync.)
-- Audio Export
-- Manifest generation
-  - Target Import Automation
-    - CSV
-    - JSON
-    - Based off label, and tags
-  - Patch Import Automation
-  - Patch manifest generation
-- String / text hierarchy object displaying
-- String / text modification
-
-#### Features
-
-- Table
-  - Fold all items
-- Focus on a bank viewer when users try to load the same file.
-- Allow to duplicate a bank viewer (only visually)
-
-#### Bugs
-
-- Async. race between record change caused by users' input and scheduled record writing
-  - Record writing is scheduled but it takes a long time. Meanwhile, users cause record
-  change in the UI.
-- Async. task should have priorities and urgencies.
-
-## HD2 Audio Modding Tool (Legacy)
-
-### Features
-
-#### Random Sequence Container
-
-1. Random Sequence Container parameters
-    1. Parsing
-        1. Rapid testing
-    2. Displaying information on the UI
-    3. Changing parameters
-        1. core logic 
-        2. changing parameters via UI
-
-#### Information Copying
-
-- Rework "Copy IDs -> Linear"
-    - It should be "Copy Audio Source IDs" only.
-    - There's no need to do folding for just copying audio ids because I still need to unfold it.
+- Load an archive on an existence Mod window
+- Sound bank viewer
+  - Hierarchy View
+  - Source View
 
 ### Guide & Tutorial
 
@@ -99,11 +46,3 @@ another few instances of large archives are opened.
     1. CSV
     2. Manifest
 2. Patch Import Automation
-
-### PR
-
-1. Push Automation and QOL branch.
-
-## HD2 SFX Mods
-
-- MG43 and M105 does not share sounds after loaded two patches that modified the shared part. They doesn't seems to be effecting each other.
