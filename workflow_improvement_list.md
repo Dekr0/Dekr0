@@ -1,5 +1,11 @@
 # Linux
 
+## Dotfile
+
+- Create a package listing so that I can remember what I need to install in a new machine.
+  - The package listing should be varied depend on the usage context of that new machine (
+  e.g, remote machine, personal use, work, ...)
+
 # Windows
 
 ## Windows Management
