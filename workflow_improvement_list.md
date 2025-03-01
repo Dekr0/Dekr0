@@ -11,3 +11,8 @@
 ## Windows Management
 
 - Create an simple and bare bone Komorebi configuraion.
+
+## Tooling
+
+- Build a group rename command line tool
+  - Idea: Go + Bubble Tea, or fzf + simple scripts
