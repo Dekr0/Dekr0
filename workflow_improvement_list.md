@@ -16,3 +16,5 @@
 
 - Build a group rename command line tool
   - Idea: Go + Bubble Tea, or fzf + simple scripts
+- Better Git workflow in the command line
+  - Picker for branches, unstaged files, ....
