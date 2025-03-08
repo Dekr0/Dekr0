@@ -18,3 +18,8 @@
   - Idea: Go + Bubble Tea, or fzf + simple scripts
 - Better Git workflow in the command line
   - Picker for branches, unstaged files, ....
+
+# Vim
+
+- Create a function where I can fuzzy search a file and open it based on a give path of a
+directory
