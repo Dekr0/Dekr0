@@ -4,11 +4,7 @@
 
 ### Features
 
-- Base parameter editing
-- Encode and save sound bank
-- Configuration file
-    - Startup directory in file explorer
-    - Workspace and Bookmark
+- Helldivers 2 Integration
 
 ### Performance
 
@@ -18,20 +14,28 @@
 
 - Create a test build on both Linux and Windows
 
-## Helldivers 2 Audio Modding Tool
-
-- Add an option to export sound bank file.
-- Add an option to import hierarchy via a sound bank file.
-
-# Listing (Tomorrow)
-
 ## natPass
+
+### Design
+
+- Rework how GET route should be written 
+    - Make use of URL parameter instead of body
+
+### House Keeping
+
+- Create a new branch to remove unnecessary files
 
 ### Performance 
 
-- Implement ring buffer with timeout to handle bulk operations.
+- Ring buffer and timeout flushing to batch database write
+- Initial phase of benchmark
+    - Memory usage (test on local)
+    - Throughput (test on remote)
+- Load balancing algorithms for badge printer servers
+    - It is possible that a host can connect multiple printers if it has 
+    multiple USB ports
 
 ### Deployment
 
 - Docker build spec and docker compose spec for the new setup.
-- Secure connection
+- Security between natPass, rabbitMQ, and each individual badge printers
