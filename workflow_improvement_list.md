@@ -16,6 +16,12 @@
     - Group by usage context (remote machine, personal use, work)
 - OS agnostic helper for piping a given package listing into OS package manager
 
+## Terminal
+
+### Wezterm
+
+- Investigate into workspace, domain.
+
 ## Tooling
 
 ### Fuzzy Finding
@@ -40,3 +46,7 @@
 - Search all files from bookmark
 - Search all alias command
 - Harpoon Integration
+
+## TODO.nvim
+
+- Extend TODO.nvim for small journal taking.
