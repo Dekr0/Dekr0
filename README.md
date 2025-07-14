@@ -11,5 +11,3 @@
   - System Design (By building thing)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=tokyonight&username=Dekr0&langs_count=8)
- 
-
