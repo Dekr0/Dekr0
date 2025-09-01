@@ -1,21 +1,17 @@
 # HD2 Audio Modding
 
-- [Bug Fixes](<audio_modding#Bug Fixes>)
+## AMG43
 
-## Bug Fixes
+### Aftertouch UKM
 
-- Setup new scripting system using Wwise Teller, and use that to automatically 
-repatch all problematic mod for AR23.
+- Reduce volume of core loop
 
-## Remix
+## AGX16
 
-### M206
+### DOOM 2016 Assulat Rifle
 
-- Create new container using the tail layer container for core layer.
+- Release patch fix
+- Add more variants
+- Add tail layers
 
-### Reload SFX For AR61
-
-### UKM 2000
-
-- The rendering audio assets are quieter than the one in DAW. It's probably 
-the soft limiter.
+### Aftertouch Spear
