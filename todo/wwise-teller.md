@@ -1,33 +1,23 @@
 # Wwise Teller
 
 - [Feature](wwise-teller#Feature)
-- [Compile & Release](<wwise-teller#Compile & Release>)
+- [Rewrite](wwise-teller#Rewrite)
 - [Test](wwise-teller#Test)
 
 ## Feature
 
 - Automation [Automation](wwise-teller#Automation)
-- Simulation
-- Test [Test](wwise-teller#Test)
-- UI [UI](wwise-teller#UI)
 
 ### Automation
 
-- Add new script type: add new sound objects in a random / sequence container
-- Wave File Export
+- Action creations
+- Bank source data modifications
+- Placeholder creations
+- Attenuation
 
-### Simulation
+## Rewrite
 
-- Simulate playback of an Event
-
-### UI
-
-- Copy ID on Events and Actions
-- Copy ID on Bus and FX
-
-## Compile & Release
-
-- Make a release with all features I have so far
+- Finalize design
 
 ## Test
 
