@@ -19,3 +19,5 @@
 - Add tail layers
 
 ### Aftertouch Spear
+
+- Expand variants for core and tail
