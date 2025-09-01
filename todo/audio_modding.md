@@ -1,5 +1,9 @@
 # HD2 Audio Modding
 
+## R63
+
+- Actor mixer and attenuation for tails seems to boost volume in some area. 
+
 ## AMG43
 
 ### Aftertouch UKM
