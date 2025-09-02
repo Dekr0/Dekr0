@@ -11,6 +11,7 @@
 ### UI
 
 - Display more information about bank source data
+- Tracing information of sound object that use FX plugins.
 
 ### Automation
 
