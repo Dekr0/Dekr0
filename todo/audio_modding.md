@@ -16,8 +16,15 @@
 
 - Release patch fix
 - Add more variants
-- Add tail layers
 
-### Aftertouch Spear
+## BR16
 
-- Expand variants for core and tail
+### Aftertouch MCX
+
+- Make sure tail do not muffle all surrounding sound
+
+## AC8
+
+### Bushmaster 25mm
+
+- Investigate why oil rig do not use the tail layer of handheld autocannon.
