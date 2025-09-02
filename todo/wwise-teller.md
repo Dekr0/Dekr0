@@ -17,7 +17,6 @@
 - Keep the whole automation simple, no hidden control flow, embrace explicity even if it might
 introduce verbosity.
 - Action creations
-- Placeholder creations
 - Attenuation
 
 ## Rewrite
