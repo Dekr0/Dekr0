@@ -8,6 +8,10 @@
 
 - Automation [Automation](wwise-teller#Automation)
 
+### UI
+
+- Display more information about bank source data
+
 ### Automation
 
 - Keep the whole automation simple, no hidden control flow, embrace explicity even if it might
