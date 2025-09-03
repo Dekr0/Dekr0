@@ -2,7 +2,9 @@
 
 ## R63
 
-- Actor mixer and attenuation for tails seems to boost volume in some area. 
+- Actor mixer and attenuation for tails seems to boost volume in some area.
+- Patch for KF2 EBR
+- Reload SFX
 
 ## AMG43
 
@@ -22,9 +24,11 @@
 ### Aftertouch MCX
 
 - Make sure tail do not muffle all surrounding sound
+- Reload SFX
 
 ## AC8
 
 ### Bushmaster 25mm
 
 - Investigate why oil rig do not use the tail layer of handheld autocannon.
+- Attempt to solve the transient layer not being to sound as loud as possible
