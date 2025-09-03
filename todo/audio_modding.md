@@ -2,9 +2,10 @@
 
 ## R63
 
+- Add trigger detail
+- Reload SFX
 - Actor mixer and attenuation for tails seems to boost volume in some area.
 - Patch for KF2 EBR
-- Reload SFX
 
 ## AMG43
 
