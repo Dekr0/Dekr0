@@ -1,6 +1,7 @@
 - Computer Engineering Graduated in University of Alberta
 - [My TODO](https://github.com/Dekr0/Dekr0/blob/main/todo.md)
 - I'm working on
+  - [Wwise Teller](https://github.com/Dekr0/wwise-teller)
   - [Helldivers 2 Audio Modding Tool](https://github.com/RaidingForPants/hd2-audio-modder)
   - Modding Helldivers 2 SFX 
 - I’m currently learning
