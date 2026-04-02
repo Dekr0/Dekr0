@@ -1,3 +1,4 @@
+- Most of my stuff are moved to codeberg
 - Computer Engineering Graduated in University of Alberta
 - [My TODO](https://github.com/Dekr0/Dekr0/blob/main/todo.md)
 - I'm working on
