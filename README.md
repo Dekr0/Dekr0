@@ -4,7 +4,7 @@
 - I'm working on
   - [Wwise Teller](https://github.com/Dekr0/wwise-teller)
   - [Helldivers 2 Audio Modding Tool](https://github.com/RaidingForPants/hd2-audio-modder)
-  - Modding Helldivers 2 SFX 
+  - [Modding Helldivers 2 SFX](https://www.nexusmods.com/profile/Dekw0) 
 - I’m currently learning
   - Languages 
     - Zig (Pending)
