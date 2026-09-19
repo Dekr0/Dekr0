@@ -6,9 +6,6 @@
   - [Helldivers 2 Audio Modding Tool](https://github.com/RaidingForPants/hd2-audio-modder)
   - [Modding Helldivers 2 SFX](https://www.nexusmods.com/profile/Dekw0) 
 - I’m currently learning
-  - Languages 
-    - Zig (Pending)
-    - ASM (Pending)
   - [Performance Awareness Programming](https://www.computerenhance.com/p/table-of-contents)
   - System Design (By building thing)
 
